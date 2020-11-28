@@ -1,5 +1,5 @@
 "Data is the new oil, it's valueable but if unrefined it cannot be used"
-![](https://github.com/saraivajr/saraivajr/Data-is-the-New-Oil.png)
+![](https://github.com/saraivajr/saraivajr/blob/main/Data-is-the-New-Oil.png)
 <!--
 **saraivajr/saraivajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
